@@ -1,4 +1,4 @@
-3D rotating cube built from scratch using rotation matrices. Implemented with **pygame** and **numpy**. It can be rotated along 4 axis as well as scaled using the arrow and WASD keys. It uses a 2D projection of an object defined as 3D.
+3D rotating cube built from scratch using **rotation matrices**. Implemented with **pygame** and **numpy**. It can be rotated along 4 axis as well as scaled using the arrow and WASD keys. It uses a 2D projection of an object defined as 3D.
 
 **Images:**
 
